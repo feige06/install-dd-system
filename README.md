@@ -3,5 +3,6 @@
 
 ## 使用方法
 ```shell
-wget -qO install-net.sh https://github.com/feige06/install-dd-system/raw/master/install-net.sh && bash install-net.sh -dd "DD镜像下载地址"
+wget -qO install-net.sh https://raw.githubusercontent.com/feige06/install-dd-system/refs/heads/main/install-dd.sh
+bash install-net.sh -dd "DD镜像下载地址"
 ```
